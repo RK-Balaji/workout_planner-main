@@ -26,6 +26,12 @@ Install Node.js. Run the following command in the terminal:
 
 npm i
 
+## Run The Program
+
+Open Terminal/Powershell/CMD. Run the following command in the terminal:
+
+npm start
+
 ## Usage
 
 Personal usage
